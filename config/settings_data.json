@@ -11,7 +11,7 @@
             "text": "#121212",
             "button": "#121212",
             "button_label": "#FFFFFF",
-            "secondary_button_label": "#121212",
+            "secondary_button_label": "#ff0000",
             "shadow": "#121212"
           }
         },
